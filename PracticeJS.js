@@ -4,8 +4,8 @@ window.onload = function () {
 
     var x = 1;
     var y = 2;
-    var z = x + y
-    var input = prompt("hello", "sup?");
+    var z = x + y;
+    //var input = prompt("hello", "sup?");
 
 
     button = document.getElementById("button");
@@ -13,4 +13,4 @@ window.onload = function () {
     function clicked() {
         alert(input);
     }
-}
+};
