@@ -8,18 +8,17 @@ window.onload = function () {
     //var input = prompt("hello", "sup?");
 
 
-    button = document.getElementById("button");
+    var button = document.getElementById("button");
     button.addEventListener("click", clicked());
     function clicked() {
         alert(input);
     }
 
 
-    input = document.getElementById('input');
-    canvas = document.getElementById('myCanvas')
-    input.addEventListener("change", changeIt());
-    function changeIt()
+    var input = document.getElementById('input');
+    var canvas = document.getElementById('myCanvas');
+    input.addEventListener("change", function ()
     {
         canvas.innerHTML = input.innerHTML;
-    }
+    });
 };
