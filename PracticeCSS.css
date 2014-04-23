@@ -25,3 +25,9 @@ h1
      font-family: Futura;
      font-size: 100px;
  }
+
+canvas
+{
+    width: 1000px;
+    height: 500px;
+}
