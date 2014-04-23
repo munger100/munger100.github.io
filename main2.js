@@ -8,20 +8,13 @@ var blue = [196, 77, 55];
 var purple = [280, 50, 60];
 var yellow = [255, 255, 0];
 
-var myName = "Dalaw1";
-var letterColors = [purple, orange, yellow];
-bubbleShape = "circle";
+var otherName = "Mckernan28";
+var otherLetterColors = [blue, green, red];
+var bubbleShape = "square";
 
 
 
 
-
-
-
-
-
-drawName(myName, letterColors);
-bounceBubbles();
 
 drawName(otherName, otherLetterColors);
 bounceBubbles();
