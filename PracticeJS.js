@@ -9,8 +9,17 @@ window.onload = function () {
 
 
     button = document.getElementById("button");
-    button.addEventListener("click", clicked);
+    button.addEventListener("click", clicked());
     function clicked() {
         alert(input);
+    }
+
+
+    var input = document.getElementById('input');
+    var canvas = document.getElementById('myCanvas')
+    input.addEventListener("change", changeIt());
+    function changeIt()
+    {
+        canvas.innerHTML = input.innerHTML;
     }
 };
