@@ -13,13 +13,14 @@ window.onload = function () {
     var canvas = document.getElementById('myCanvas');
     var myName = "Meggs is smelly";
     var letterColors = [red, orange, blue];
+    var button = document.getElementById('submit');
 
     bubbleShape = "circle";
 
     drawName(myName, letterColors);
     bounceBubbles();
 
-    input.addEventListener("change", function ()
+    button.addEventListener("click", function ()
     {
         myName = input.innerHTML;
         drawName(myName, letterColors);
