@@ -22,6 +22,3 @@ bubbleShape = "circle";
 
 drawName(myName, letterColors);
 bounceBubbles();
-
-drawName(otherName, otherLetterColors);
-bounceBubbles();
