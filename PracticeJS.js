@@ -19,6 +19,6 @@ window.onload = function () {
     var canvas = document.getElementById('myCanvas');
     input.addEventListener("change", function ()
     {
-        canvas.innerHTML = input.innerHTML;
+        myName = input.innerHTML;
     });
 };
