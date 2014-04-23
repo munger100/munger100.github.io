@@ -8,8 +8,8 @@ var blue = [196, 77, 55];
 var purple = [280, 50, 60];
 var yellow = [255, 255, 0];
 
-var myName = "Dalaw1";
-var letterColors = [purple, orange, yellow];
+var myName = "Daddy is cool :)";
+var letterColors = [red, orange, blue];
 bubbleShape = "circle";
 
 
