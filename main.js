@@ -11,7 +11,7 @@ window.onload = function () {
     var yellow = [255, 255, 0];
     var input = document.getElementById('input');
     var canvas = document.getElementById('myCanvas');
-    var myName = "Meggs is smelly";
+    var myName = "Munger100 ;)";
     var letterColors = [red, orange, blue];
     var button = document.getElementById('submit');
 
