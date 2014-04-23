@@ -15,8 +15,8 @@ window.onload = function () {
     }
 
 
-    var input = document.getElementById('input');
-    var canvas = document.getElementById('myCanvas')
+    input = document.getElementById('input');
+    canvas = document.getElementById('myCanvas')
     input.addEventListener("change", changeIt());
     function changeIt()
     {
