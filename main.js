@@ -9,10 +9,11 @@ window.onload = function () {
     var blue = [196, 77, 55];
     var purple = [280, 50, 60];
     var yellow = [255, 255, 0];
+    var black = [0, 0, 0];
     var input = document.getElementById('input');
     var canvas = document.getElementById('myCanvas');
     var myName = "Munger100 ;)";
-    var letterColors = [red, orange, blue];
+    var letterColors = [black, purple, blue];
     var button = document.getElementById('submit');
 
     bubbleShape = "circle";
