@@ -14,14 +14,16 @@ window.onload = function () {
     var myName = "Meggs is smelly";
     var letterColors = [red, orange, blue];
 
-    input.addEventListener("change", function ()
-    {
-        myName = input.innerHTML;
-    });
-
     bubbleShape = "circle";
 
     drawName(myName, letterColors);
     bounceBubbles();
+
+    input.addEventListener("change", function ()
+    {
+        myName = input.innerHTML;
+        drawName(myName, letterColors);
+        bounceBubbles();
+    });
 };
 
