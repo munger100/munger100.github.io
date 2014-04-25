@@ -12,7 +12,7 @@ window.onload = function () {
     var black = [0, 0, 0];
     var input = document.getElementById('input');
     var canvas = document.getElementById('myCanvas');
-    var myName = "Munger100 ;)";
+    var myName = "Like A Boss ;)";
     var letterColors = [black, purple, blue];
     var button = document.getElementById('submit');
 
