@@ -21,7 +21,7 @@ window.onload = function () {
     drawName(myName, letterColors);
     bounceBubbles();
 
-    button.addEventListener("click", function ()
+    button.addEventListener("click", function()
     {
         myName = input.innerHTML;
         drawName(myName, letterColors);
