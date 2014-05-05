@@ -25,7 +25,7 @@ window.onload = function () {
     }
     setup();
 
-    button.addEventListener("click", function ()
+    button.addEventListener("click", function()
     {
         myName = input.innerHTML;
         setup();
