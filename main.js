@@ -18,14 +18,17 @@ window.onload = function () {
 
     bubbleShape = "circle";
 
-    drawName(myName, letterColors);
-    bounceBubbles();
+    function setup()
+    {
+        drawName(myName, letterColors);
+        bounceBubbles();
+    }
+    setup();
 
     button.addEventListener("click", function ()
     {
         myName = input.innerHTML;
-        drawName(myName, letterColors);
-        bounceBubbles();
+        setup();
     });
 };
 
