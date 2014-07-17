@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>PracticeJS.js</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: rgb(0,0,0); font-weight: normal; font-style: normal; }
+.s0 { color: rgb(128,128,128); font-style: italic; }
+.s1 { }
+.s2 { color: rgb(0,0,128); font-weight: bold; }
+.s3 { color: rgb(0,0,255); }
+.s4 { color: rgb(0,128,0); font-weight: bold; }
+</style>
+</head>
+<BODY BGCOLOR="#ffffff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#C0C0C0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+PracticeJS.js</FONT>
+</center></TD></TR></TABLE>
+<pre>
+
+<span class="s0">// Created by matthew on 4/14/2014</span><span class="s1"> 
+ 
+window.onload = </span><span class="s2">function </span><span class="s1">() { 
+ 
+    </span><span class="s2">var </span><span class="s1">x = </span><span class="s3">1</span><span class="s1">; 
+    </span><span class="s2">var </span><span class="s1">y = </span><span class="s3">2</span><span class="s1">; 
+    </span><span class="s2">var </span><span class="s1">z = x + y; 
+    </span><span class="s0">//var input = prompt(&quot;hello&quot;, &quot;sup?&quot;);</span><span class="s1"> 
+ 
+ 
+    button = document.getElementById(</span><span class="s4">&quot;button&quot;</span><span class="s1">); 
+    button.addEventListener(</span><span class="s4">&quot;click&quot;</span><span class="s1">, clicked()); 
+    </span><span class="s2">function </span><span class="s1">clicked() { 
+        alert(input); 
+    } 
+ 
+ 
+    input = document.getElementById(</span><span class="s4">'input'</span><span class="s1">); 
+    canvas = document.getElementById(</span><span class="s4">'myCanvas'</span><span class="s1">) 
+    input.addEventListener(</span><span class="s4">&quot;change&quot;</span><span class="s1">, changeIt()); 
+    </span><span class="s2">function </span><span class="s1">changeIt() 
+    { 
+        canvas.innerHTML = input.innerHTML; 
+    } 
+}; 
+</span></pre>
+</body>
+</html>

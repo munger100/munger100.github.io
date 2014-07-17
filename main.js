@@ -2,6 +2,8 @@
  * Created by matthew on 4/23/2014.
  */
 window.onload = function () {
+    // Debug to see if Javascript is Received
+    console.log('Javascript Received!');
 
     var red = [0, 100, 63];
     var orange = [40, 100, 60];

@@ -1,3 +1,12 @@
+body
+{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-transition: background 10.0s
+}
+
 div
 {
     Color: blue;

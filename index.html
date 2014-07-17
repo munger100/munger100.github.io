@@ -7,9 +7,20 @@
     <!--<script src="PracticeJQ.js"></script>-->
     <script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="http://s3.amazonaws.com/codecademy-content/courses/hour-of-code/js/alphabet.js"></script>
-        <link rel="icon"
-          type="image/jpg"
-          href="Favicon.jpg">
+        <link rel="icon" type="image/jpg" href="Favicon.jpg">
+    <script type="text/javascript">
+        function changebackground() {
+            var colors = ["#0099cc","#c0c0c0","#587b2e",
+                "#990000","#1C8200","#987baa","#464646",
+                "#AA8971","#1987FC","#99081E"];
+            document.body.style.background = colors[5];
+            setInterval(function() {
+                var randomcolor = Math.floor(Math.random() * colors.length);
+                document.body.style.background = colors[randomcolor];
+            }, 10000);
+            $('#thome').css('background', '#717171')
+        }
+    </script>
 </head>
 <body>
         <div id="one">
