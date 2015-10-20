@@ -1,6 +1,5 @@
 munger100.github.io
 ===================
 
-This is my first Site :)
-It Wil be a hub for mckernan28's videos and dalaw1's videos and activities.
-Or at least i'll try ;)
+This site will be a collection of my accomplishments on ProjectEuler.com.
+It will show all the problems I've solved, the problem descriptions, the answer and the scripts I coded.
