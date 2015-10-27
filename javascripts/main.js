@@ -1,4 +1,5 @@
 // Login
+<<<<<<< HEAD
 $(document).ready(function(){
     $(function() {
         $('li > ul').each(function(i) {
@@ -17,3 +18,17 @@ $(document).ready(function(){
         console.log(jsondata);
     });
 });
+=======
+function check(form)/*function to check userid & password*/
+{
+    /*the following code checks whether the entered userid and password are matching*/
+    if(form.userid.value == "munger100" && form.pwd.value == "Matthew11")
+    {
+        window.location = "edit.html" /*opens the target page while Id & password matches*/
+    }
+    else
+    {
+        alert("Error Password or Username")/*displays error message*/
+    }
+}
+>>>>>>> 3eb5fe293a34d2e80641ac3cdd79751b019473ee
