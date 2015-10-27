@@ -1,13 +1,19 @@
 // Login
-function check(form)/*function to check userid & password*/
-{
-    /*the following code checks whether the entered userid and password are matching*/
-    if(form.userid.value == "munger100" && form.pwd.value == "Matthew11")
-    {
-        window.open("./edit.html", "_top")/*opens the target page while Id & password matches*/
-    }
-    else
-    {
-        alert("Error Password or Username")/*displays error message*/
-    }
-}
+$(document).ready(function(){
+    $(function() {
+        $('li > ul').each(function(i) {
+            var parent_li = $(this).parent('li');
+            parent_li.addClass('folder');
+            var sub_ul = $(this).remove();
+            parent_li.wrapInner('<a/>').find('a').click(function() {
+                sub_ul.toggle();
+            });
+            parent_li.append(sub_ul);
+        });
+        $('ul ul').hide();
+    });
+    $.get("data.json", function(data) {
+        jsondata = JSON.parse(data);
+        console.log(jsondata);
+    });
+});

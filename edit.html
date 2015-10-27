@@ -7,7 +7,8 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-    <script language="JavaScript" type="text/javascript" src="javascripts/main.js"></script>
+    <script src="https://code.jquery.com/jquery.min.js"></script>
+    <script src="javascripts/main.js"></script>
 
     <title>Python Programming Challenges</title>
 </head>
@@ -27,6 +28,18 @@
             You are logged in as <span class="username">munger100</span>!<br/>
             You can now edit and add problems to the list.<br/>
             If you just looked at the code and got here and you are NOT <span class="username">munger100</span>, then get now!
+        </section>
+        <section id="suggestedit">
+            <form id="editform">
+                <h4>Problem Number</h4>
+                <input type="text" id="number" name="number">
+                <h4>Answer</h4>
+                <input type="text" id="answer" name="answer">
+                <h4>Code</h4>
+                <input type="file" id="code" name="code">
+                <input type="submit" value="Login"/>
+                <input type="reset" value="Cancel"/>
+            </form>
         </section>
     </div>
 </header>

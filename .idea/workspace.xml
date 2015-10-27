@@ -5,9 +5,533 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7faf22f2-a7b8-42d4-aa9b-7dede0f3c957" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/getter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem100.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem101.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem102.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem103.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem104.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem105.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem106.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem107.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem108.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem109.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem110.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem111.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem112.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem113.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem114.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem115.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem116.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem117.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem118.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem119.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem120.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem121.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem122.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem123.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem124.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem125.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem126.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem127.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem128.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem129.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem130.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem131.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem132.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem133.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem134.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem135.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem136.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem137.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem138.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem139.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem140.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem141.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem142.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem143.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem144.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem145.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem146.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem147.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem148.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem149.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem150.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem151.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem152.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem153.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem154.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem155.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem156.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem157.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem158.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem159.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem160.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem161.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem162.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem163.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem164.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem165.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem166.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem167.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem168.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem169.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem170.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem171.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem172.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem173.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem174.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem175.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem176.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem177.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem178.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem179.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem180.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem181.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem182.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem183.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem184.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem185.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem186.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem187.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem188.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem189.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem190.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem191.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem192.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem193.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem194.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem195.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem196.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem197.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem198.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem199.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem20.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem200.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem201.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem202.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem203.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem204.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem205.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem206.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem207.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem208.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem209.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem21.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem210.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem211.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem212.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem213.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem214.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem215.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem216.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem217.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem218.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem219.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem220.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem221.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem222.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem223.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem224.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem225.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem226.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem227.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem228.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem229.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem230.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem231.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem232.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem233.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem234.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem235.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem236.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem237.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem238.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem239.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem24.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem240.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem241.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem242.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem243.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem244.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem245.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem246.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem247.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem248.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem249.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem25.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem250.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem251.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem252.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem253.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem254.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem255.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem256.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem257.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem258.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem259.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem26.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem260.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem261.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem262.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem263.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem264.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem265.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem266.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem267.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem268.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem269.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem27.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem270.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem271.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem272.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem273.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem274.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem275.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem276.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem277.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem278.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem279.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem28.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem280.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem281.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem282.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem283.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem284.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem285.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem286.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem287.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem288.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem289.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem29.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem290.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem291.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem292.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem293.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem294.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem295.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem296.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem297.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem298.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem299.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem300.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem301.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem302.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem303.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem304.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem305.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem306.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem307.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem308.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem309.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem31.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem310.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem311.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem312.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem313.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem314.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem315.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem316.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem317.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem318.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem319.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem32.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem320.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem321.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem322.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem323.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem324.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem325.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem326.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem327.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem328.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem329.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem33.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem330.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem331.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem332.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem333.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem334.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem335.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem336.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem337.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem338.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem339.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem34.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem340.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem341.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem342.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem343.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem344.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem345.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem346.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem347.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem348.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem349.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem35.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem350.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem351.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem352.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem353.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem354.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem355.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem356.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem357.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem358.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem359.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem36.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem360.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem361.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem362.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem363.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem364.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem365.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem366.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem367.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem368.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem369.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem37.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem370.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem371.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem372.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem373.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem374.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem375.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem376.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem377.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem378.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem379.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem38.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem380.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem381.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem382.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem383.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem384.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem385.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem386.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem387.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem388.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem389.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem39.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem390.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem391.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem392.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem393.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem394.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem395.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem396.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem397.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem398.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem399.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem40.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem400.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem401.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem402.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem403.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem404.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem405.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem406.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem407.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem408.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem409.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem41.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem410.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem411.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem412.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem413.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem414.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem415.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem416.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem417.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem418.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem419.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem42.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem420.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem421.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem422.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem423.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem424.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem425.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem426.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem427.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem428.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem429.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem43.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem430.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem431.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem432.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem433.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem434.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem435.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem436.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem437.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem438.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem439.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem44.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem440.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem441.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem442.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem443.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem444.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem445.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem446.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem447.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem448.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem449.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem45.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem450.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem451.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem452.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem453.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem454.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem455.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem456.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem457.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem458.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem459.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem46.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem460.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem461.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem462.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem463.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem464.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem465.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem466.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem467.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem468.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem469.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem47.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem470.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem471.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem472.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem473.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem474.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem475.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem476.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem477.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem478.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem479.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem48.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem480.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem481.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem482.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem483.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem484.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem485.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem486.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem487.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem488.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem489.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem49.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem490.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem491.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem492.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem493.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem494.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem495.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem496.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem497.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem498.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem499.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem50.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem500.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem501.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem502.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem503.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem504.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem505.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem506.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem507.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem508.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem509.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem51.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem510.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem511.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem512.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem513.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem514.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem515.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem516.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem517.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem518.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem519.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem52.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem520.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem521.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem53.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem54.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem55.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem56.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem57.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem58.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem59.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem60.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem61.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem62.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem63.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem64.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem65.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem66.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem67.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem68.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem69.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem70.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem71.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem72.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem73.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem74.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem75.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem76.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem77.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem78.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem79.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem80.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem81.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem82.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem83.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem84.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem85.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem86.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem87.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem88.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem89.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem90.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem91.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem92.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem93.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem94.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem95.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem96.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem97.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem98.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problem99.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecteulersource/problems-list.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit.html" afterPath="$PROJECT_DIR$/edit.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/main.js" afterPath="$PROJECT_DIR$/javascripts/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/stylesheets/stylesheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -54,30 +578,26 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.49539334">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-20.428572">
-                  <caret line="29" column="62" selection-start-line="29" selection-start-column="62" selection-end-line="29" selection-end-column="62" />
+                <state vertical-scroll-proportion="0.6082949">
+                  <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
                   <folding>
                     <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="edit.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="edit.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/edit.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.7359618">
-                  <caret line="28" column="111" selection-start-line="28" selection-start-column="111" selection-end-line="28" selection-end-column="111" />
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
                   <folding>
                     <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -94,8 +614,8 @@
               <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.6596306">
-                      <caret line="249" column="17" selection-start-line="249" selection-start-column="17" selection-end-line="249" selection-end-column="17" />
+                    <state vertical-scroll-proportion="0.040880505">
+                      <caret line="261" column="9" selection-start-line="261" selection-start-column="9" selection-end-line="261" selection-end-column="9" />
                       <folding />
                     </state>
                   </provider>
@@ -105,21 +625,33 @@
           </split-first>
           <split-second>
             <leaf>
-              <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
+              <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/javascripts/main.js">
                   <provider selected="true" editor-type-id="text-editor">
                     <state vertical-scroll-proportion="0.0">
-                      <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+                      <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
                       <folding />
                     </state>
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/javascripts/main.js">
+              <file leaf-file-name="getter.py" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/python/getter.py">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.3196126">
-                      <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+                    <state vertical-scroll-proportion="0.175">
+                      <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+                      <folding>
+                        <element signature="e#23#38#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="problems-list.txt" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/projecteulersource/problems-list.txt">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state vertical-scroll-proportion="0.0">
+                      <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                       <folding />
                     </state>
                   </provider>
@@ -130,6 +662,13 @@
         </splitter>
       </split-second>
     </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -151,10 +690,12 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/PracticeCSS.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
         <option value="$PROJECT_DIR$/edit.html" />
+        <option value="$PROJECT_DIR$/stylesheets/stylesheet.css" />
         <option value="$PROJECT_DIR$/javascripts/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/python/problems-list.txt" />
+        <option value="$PROJECT_DIR$/python/getter.py" />
       </list>
     </option>
   </component>
@@ -193,7 +734,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -236,6 +776,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="munger100.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="munger100.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projecteulersource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="munger100.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="munger100.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="javascripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -244,10 +812,11 @@
       </pane>
       <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/projects/Python/Project Euler" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
@@ -255,6 +824,9 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -264,15 +836,33 @@
       <recent name="http://dalaw1.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Matthew\Desktop\munger100.github.io\projecteulersource" />
       <recent name="C:\Users\Matthew\Desktop\munger100.github.io" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.getter">
     <configuration default="false" name="main2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="main2.js" working-dir="$PROJECT_DIR$">
       <RunnerSettings RunnerId="NodeJS.debug" />
       <RunnerSettings RunnerId="NodeJS.run" />
       <ConfigurationWrapper RunnerId="NodeJS.debug" />
       <ConfigurationWrapper RunnerId="NodeJS.run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="getter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="munger100.github.io" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/getter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -571,6 +1161,14 @@
       <envs />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.getter" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.getter" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -790,33 +1388,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20712695" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24545455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24545455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -852,12 +1450,15 @@
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -865,7 +1466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="104" selection-start-line="4" selection-start-column="104" selection-end-line="4" selection-end-column="104" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -875,10 +1475,6 @@
           <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -897,10 +1493,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -909,7 +1501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -917,7 +1508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="104" selection-start-line="4" selection-start-column="104" selection-end-line="4" selection-end-column="104" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -925,7 +1515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,10 +1524,6 @@
           <caret line="11" column="29" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -947,7 +1532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,7 +1539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -965,10 +1548,6 @@
           <caret line="11" column="29" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -977,7 +1556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -985,7 +1563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,10 +1572,6 @@
           <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1007,7 +1580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,7 +1587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1025,10 +1596,6 @@
           <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1037,7 +1604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1045,7 +1611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,10 +1620,6 @@
           <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1067,7 +1628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1075,7 +1635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1085,10 +1644,6 @@
           <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1097,7 +1652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1105,7 +1659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1115,10 +1668,6 @@
           <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1127,7 +1676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1135,7 +1683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1145,10 +1692,6 @@
           <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1157,7 +1700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1165,7 +1707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1175,10 +1716,6 @@
           <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1187,7 +1724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1195,7 +1731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1205,10 +1740,6 @@
           <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1217,7 +1748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1227,10 +1757,6 @@
           <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1241,10 +1767,6 @@
           <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1255,10 +1777,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1268,18 +1786,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/github-dark.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1028903">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1287,36 +1797,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/stylesheets/github-dark.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.428572">
-          <caret line="29" column="62" selection-start-line="29" selection-start-column="62" selection-end-line="29" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.6545012">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#2;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#3;n#form#0;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.040880505">
+          <caret line="261" column="9" selection-start-line="261" selection-start-column="9" selection-end-line="261" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/edit.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7359618">
-          <caret line="28" column="111" selection-start-line="28" selection-start-column="111" selection-end-line="28" selection-end-column="111" />
+        <state vertical-scroll-proportion="0.6082949">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -1325,11 +1837,113 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3196126">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Python34/Lib/inspect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.7173913">
+          <caret line="2158" column="8" selection-start-line="2158" selection-start-column="8" selection-end-line="2158" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projecteulersource/problems-list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/getter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.175">
+          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.4.3 (C:\Python34\python.exe) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.4.3 (C:\Python34\python.exe)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>munger100.github.io</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="author" content="Colin Hughes" />
+<meta name="description" content="A website dedicated to the fascinating world of mathematics and programming" />
+<meta name="keywords" content="programming,mathematics,problems,puzzles" />
+<title>Problem 477 - Project Euler</title>
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="stylesheet" type="text/css" href="themes/default/style_default.css" />
+
+<script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+         inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+         displayMath: [ ["$$","$$"], ["\\[","\\]"] ],
+         processEscapes: true
+      },
+      "HTML-CSS": { availableFonts: ["TeX"] }
+   });
+</script>
+<!--[if !IE]><!-->
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML-full,Safe"></script>
+<!--<![endif]-->
+<!--[if IE]>
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/2.4-latest/MathJax.js?config=TeX-AMS_HTML-full,Safe"></script>
+<![endif]-->
+</head>
+
+<body>
+<div id="container">
+<div id="header" class="noprint">
+<div id="nav" class="noprint">
+<ul>
+<li><a href="about" title="About" accesskey="h">About</a></li>
+<li id="current"><a href="archives" title="Archives" accesskey="1">Archives</a></li>
+<li><a href="recent" title="Recent" accesskey="2">Recent</a></li>
+<li><a href="news" title="News" accesskey="3">News</a></li>
+<li><a href="register" title="Register" accesskey="4">Register</a></li>
+<li><a href="sign_in" title="Sign In" accesskey="5">Sign In</a></li>
+</ul>
+</div>
+
+<div id="logo" class="noprint">
+   <div>Project Euler<span>.net</span></div>
+</div>
+</div>
+
+<div id="info_panel"><a href="rss2_euler.xml"><img src="images/icon_rss.png" alt="RSS Feed" title="RSS Feed" /></a><span class="info" style="cursor:pointer;"><a href="secure=WR8fRUEVJW23fQPz"><img src="images/icon_lock.png" alt="secure_icon" /></a><span style="color:#070;font-weight:bold;text-align:left;width:250px;right:10px;">You are currently using a secure connection</span></span></div>
+<div id="content">
+<div style="text-align:center;" class="print"><img src="images/print_page_logo.png" alt="projecteuler.net" style="border:none;" /></div>
+<h2>Number Sequence Game</h2><div id="problem_info" class="info"><h3>Problem 477</h3><span>Published on Saturday, 23rd August 2014, 04:00 pm; Solved by 149; Difficulty rating: 65%</span></div>
+<div class="problem_content" role="problem">
+<p>The number sequence game starts with a sequence <var>S</var> of <var>N</var> numbers written on a line.</p>
+<p>Two players alternate turns. At his turn, a player must select and remove either the first or the last number remaining in the sequence.</p>
+<p>The player score is the sum of all the numbers he has taken. Each player attempts to maximize his own sum.</p>
+If <var>N</var> = 4 and <var>S</var> = {1, 2, 10, 3}, then each player maximizes his score as follows:
+<ul><li>Player 1: removes the first number (1)</li>
+<li>Player 2: removes the last number from the remaining sequence (3)</li>
+<li>Player 1: removes the last number from the remaining sequence (10)</li>
+<li>Player 2: removes the remaining number (2)</li>
+</ul><p>Player 1 score is 1 + 10 = 11.</p>
+<p>Let <var>F</var>(<var>N</var>) be the score of player 1 if both players follow the optimal strategy for the sequence <var>S</var> = {<var>s</var><sub>1</sub>, <var>s</var><sub>2</sub>, ..., <var>s<sub>N</sub></var>} defined as:</p>
+<ul><li><var>s</var><sub>1</sub> = 0</li>
+<li><var>s</var><sub><var>i</var>+1</sub> = (<var>s<sub>i</sub></var><sup>2</sup> + 45) modulo 1 000 000 007</li>
+</ul><p>The sequence begins with <var>S</var> = {0, 45, 2070, 4284945, 753524550, 478107844, 894218625, ...}.</p>
+<p>You are given <var>F</var>(2) = 45, <var>F</var>(4) = 4284990, <var>F</var>(100) = 26365463243, <var>F</var>(10<sup>4</sup>) = 2495838522951.</p>
+<p>Find <var>F</var>(10<sup>8</sup>).</p>
+</div><br />
+<br /></div>
+
+<div id="footer" class="noprint">
+Project Euler: <a href="copyright">Copyright Information</a> | <a href="privacy">Privacy Policy</a>
+<!--/Creative Commons License--><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+   <Work rdf:about="">
+      <license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" />
+   <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+   </Work>
+   <License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/"><permits rdf:resource="http://web.resource.org/cc/Reproduction"/><permits rdf:resource="http://web.resource.org/cc/Distribution"/><requires rdf:resource="http://web.resource.org/cc/Notice"/><requires rdf:resource="http://web.resource.org/cc/Attribution"/><prohibits rdf:resource="http://web.resource.org/cc/CommercialUse"/><permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/><requires rdf:resource="http://web.resource.org/cc/ShareAlike"/></License></rdf:RDF> -->
+</div>
+</div>
+</body>
+</html>
