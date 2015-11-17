@@ -1,25 +1,33 @@
+import json
+
 __author__ = 'Matthew'
+import lxml
+import lxml.html
 import requests
-import os
 
 """
     Gets all the html files that are the lists of problems and gets all the pages and problem descriptions
-"""'''
-with open("../projecteulersource/problems-list.txt", "w", encoding="utf8") as f:
-    f.seek(0)  # This command clears the file
-    f.truncate()  # This command clears the file
-    for integer in range(1, 12):
-        r = requests.get('https://projecteuler.net/archives;page=%s' % integer)
-        f.write("\nPART %s\n" % integer)
-        print("PART %s" % integer)
-        f.write(r.text)
-        '''
-for integer in range(1, 522):
-    filename = "../projecteulersource/problem%s.txt" % integer
-    if os.path.isfile(filename):
-        print("File %s exists, no need to create it for problem %s" % (filename, integer))
-    else:
-        print("File %s does not exist, need to create it for problem %s" % (filename, integer))
-        with open(filename, "w", encoding="utf8") as f:
-            r = requests.get("https://projecteuler.net/problem=%s" % integer)
-            f.write(r.text)
+"""
+
+
+def get_list():
+    with open("../problems-list.json", "w", encoding="utf8") as f:
+        pages = []
+        f.seek(0)  # This command clears the file
+        f.truncate()  # This command clears the file
+        problem_amount = 521
+        for problem in range(1, problem_amount + 1):
+            r_problem = requests.get('https://projecteuler.net/problem=%s' % problem)
+            html = r_problem.text
+            root = lxml.html.fromstring(html)
+
+            h2 = root.cssselect('[element=h2]')
+            print(h2)
+            break
+            pages.append({"problem": problem, "html": r_problem.text})
+        f.write(json.dumps(pages))
+        f.close()
+        return pages
+
+
+get_list()
