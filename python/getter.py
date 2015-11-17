@@ -16,15 +16,21 @@ def get_list():
         f.seek(0)  # This command clears the file
         f.truncate()  # This command clears the file
         problem_amount = 521
+        
         for problem in range(1, problem_amount + 1):
             r_problem = requests.get('https://projecteuler.net/problem=%s' % problem)
             html = r_problem.text
             root = lxml.html.fromstring(html)
 
-            h2 = root.cssselect('[element=h2]')
-            print(h2)
-            break
-            pages.append({"problem": problem, "html": r_problem.text})
+            title = root.cssselect('h2')[0].text
+
+            content_holder = root.cssselect('div.problem_content')[0]
+            content = []
+            for content_element in content_holder:
+                content.append(content_element.text)
+           
+            print("Finished", problem)
+            pages.append({"problem": problem, "title": title, "desc": content})
         f.write(json.dumps(pages))
         f.close()
         return pages
