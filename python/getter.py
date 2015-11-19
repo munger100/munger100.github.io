@@ -27,7 +27,11 @@ def get_list():
             content_holder = root.cssselect('div.problem_content')[0]
             content = []
             for content_element in content_holder:
-                content.append(content_element.text)
+                if (content_element is list):
+                   for content_child in content_element:
+                       content.append(content_child.text)
+                else: 
+                    content.append(content_element.text)
            
             print("Finished", problem)
             pages.append({"problem": problem, "title": title, "desc": content})
