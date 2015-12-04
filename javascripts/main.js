@@ -1,12 +1,10 @@
 // Add all the drop down menus for all the menus
 
 $(document).ready(function () {
-    var completed = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    var completed = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 19, 20];
     var list = document.getElementById("list");
-    var list_innerHTML = null;
     completed.forEach(function (num) {
-        list_innerHTML = list.innerHTML;
-        list.innerHTML = list_innerHTML +
+        list.innerHTML +=
             '<li id="' + num + '">' +
             '<h4 class="number">Problem #' + num + '</h4>' +
             '<div class="hider">' +
