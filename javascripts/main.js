@@ -9,7 +9,7 @@ $(document).ready(function () {
             '<h4 class="number">Problem #' + num + '</h4>' +
             '<div class="hider">' +
             '<h4 class="problemdesc"><a href="http://projecteuler.net/problem=' + num + '" target="_blank">Problem Description</a> </h4>' +
-            '<h4 class=problemscript"><a href="https://github.com/munger100/ProjectEulerPython/blob/master/' + num + '.py" target="_blank">Problem Script</a></h4>' +
+            '<h4 class=problemscript"><a href="https://github.com/munger100/ProjectEulerPython/blob/master/Completed/' + num + '.py" target="_blank">Problem Script</a></h4>' +
             '</div>' +
             '</li>';
     });
