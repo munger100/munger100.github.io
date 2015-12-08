@@ -18,7 +18,7 @@ $(document).ready(function () {
     // Drop Down Menu
     $('li').each(function (i) {
         var sub_ul = $(this).find("div.hider");
-        $(this).click(function () {
+        $(this).find(".number").click(function () {
             sub_ul.toggle();
         });
         sub_ul.hide();
