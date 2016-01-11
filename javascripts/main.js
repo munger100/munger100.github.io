@@ -1,7 +1,7 @@
 // Add all the drop down menus for all the menus
 
 $(document).ready(function () {
-    var completed = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 25, 30, 34, 39, 42, 45, 48, 52, 54, 56];
+    var completed = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 25, 30, 34, 39, 42, 45, 48, 52, 54, 56];
     var list = document.getElementById("list");
     completed.forEach(function (num) {
         list.innerHTML +=
